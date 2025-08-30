@@ -6,7 +6,7 @@
 #    By: yel-bouk <yel-bouk@student.42nice.fr>      +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2024/11/14 09:35:38 by mmalie            #+#    #+#              #
-#    Updated: 2025/08/22 15:04:50 by yel-bouk         ###   ########.fr        #
+#    Updated: 2025/08/30 16:01:38 by yel-bouk         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -94,8 +94,6 @@ all:
 	@echo "                ~ But it's done anyway, so congratulations! 🎉 🥳 ~                 "
 	@echo "                                                                                    "
 	@echo "===================================================================================="
-	@echo "                  👨 💻 Developed by:    Jack Pepper (mmalie)                       "
-	@echo "                     📧 Contact:         xxx@xxx                                    "
 	@echo "                                                                                    " 
 	@echo "      💡    \"\"Git commit messages are where developers cry in silence.\"\"  🔥    "
 	@echo "===================================================================================="
