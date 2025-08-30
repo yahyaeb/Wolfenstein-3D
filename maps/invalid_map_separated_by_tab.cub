@@ -1,0 +1,18 @@
+NO ./ass/mario_level/wall.xpm
+SO ./ass/mario_level/wall.xpm
+EA ./ass/mario_level/wall.xpm
+WE ./ass/mario_level/wall.xpm
+
+C 135,206,235
+F 86,125,60
+
+
+1111111111
+1001111101
+100	01
+1001000001
+10000N0001
+1000001101
+1001000101
+1000001101
+1111111111

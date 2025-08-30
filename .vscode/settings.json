@@ -1,0 +1,13 @@
+{
+	"files.associations": {
+		"libxkit.h": "c",
+		"cub3d.h": "c",
+		"array": "c",
+		"string_view": "c",
+		"format": "c",
+		"initializer_list": "c",
+		"span": "c",
+		"string": "c",
+		"system_error": "c"
+	}
+}
