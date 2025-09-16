@@ -1,12 +1,11 @@
 # 🕹️ cub3D / Wolfenstein-3D
 
-A 42 school project: a raycasting-based 3D game engine inspired by Wolfenstein 3D, written in C using MiniLibX. Explore, collect, and survive in pixelated worlds!
+A raycasting-based 3D engine inspired by Wolfenstein 3D, written in C using MiniLibX. The goal is to create a navigable world for practicing ray casting fundamentals. There are no characters, collectibles, or advanced gameplay elements—just pure ray casting and exploration.
 
 ---
 
 ## Demo
 
-<!-- Add a short GIF here showing the game in action -->
 ![Game Demo](./gif/Wolfenstein-3d.gif)
 
 ---
