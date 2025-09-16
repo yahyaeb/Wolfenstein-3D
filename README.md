@@ -24,7 +24,7 @@ A 42 school project: a raycasting-based 3D game engine inspired by Wolfenstein 3
 
 ## Controls
 
-- **WASD**: Move
+- **W(up)A(right)S(down)D(right)**: Move
 - **Arrow keys**: Rotate view
 - **ESC**: Quit
 
@@ -44,7 +44,7 @@ You can easily customize your game experience:
 
 ```sh
 make
-./cub3D maps/valid_map.cub
+./cub3D maps/VALID_SIMPLE.cub
 ```
 
 ---
